@@ -1,6 +1,6 @@
 ---
 name: brag-book
-description: "Generate a weekly brag book entry that captures GitHub PRs, Google Drive docs, Google Calendar meetings, and optionally Jira tickets and Slack mentions, then analyzes them for business impact and career-level evidence based on your configured career ladder. Use whenever the user wants to review their weekly accomplishments, track contributions for career growth, summarize what they shipped this week, or prepare evidence for promotion. Trigger on: \"brag book\", \"update brag book\", \"weekly brag\", \"what did I do this week\", \"weekly accomplishments\", \"track my contributions\", \"weekly summary of my work\", \"what did I ship this week\"."
+description: "Collects and analyzes your weekly contributions from GitHub PRs, Google Drive docs, Google Calendar meetings, and optionally Jira tickets and Slack mentions, then generates a structured brag book entry with business impact analysis and career-level evidence based on your configured career ladder. Use when you want to review weekly accomplishments, track contributions for career growth, summarize shipped work, or prepare promotion evidence."
 user_invocable: true
 trigger_phrases:
   - "update brag book"
